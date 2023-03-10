@@ -11,6 +11,8 @@
     animation-name: backdiv;
     animation-duration: 1.6s;
     animation-iteration-count: infinite;
+    font-size: large;
+    font-weight: 600;
 }
 
 .heart {
